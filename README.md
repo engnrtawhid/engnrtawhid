@@ -1,7 +1,7 @@
 ![Front-end developer skilled in HTML and CSS and Tailwind CSS](https://media.licdn.com/dms/image/v2/D5616AQHrMy95tgCiDg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734985535476?e=1740614400&v=beta&t=5ozcSyICseDV2PSmsJHw9kk7PnEwjOXve9BC9XttzJ0)
 
-### Hi there 👋, I'm Tawhidul Islam Noman
-#### Front-end developer skilled in HTML and CSS and Tailwind CSS
+# Hi there 👋, I'm Tawhidul Islam Noman
+### Front-end developer skilled in HTML and CSS and Tailwind CSS
 
 
 I am a self-taught front-end web developer with a solid understanding of HTML and CSS, capable of creating responsive and visually appealing websites. Currently, I am expanding my skills by learning Tailwind CSS and JavaScript to build modern and interactive user interfaces.
